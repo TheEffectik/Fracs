@@ -1,0 +1,33 @@
+C:\Projects\Fractals\bin\Debug\Fractals.exe.config
+C:\Projects\Fractals\bin\Debug\Fractals.exe
+C:\Projects\Fractals\bin\Debug\Fractals.pdb
+C:\Projects\Fractals\obj\Debug\Fractals.csproj.AssemblyReference.cache
+C:\Projects\Fractals\obj\Debug\Fractals.csproj.SuggestedBindingRedirects.cache
+C:\Projects\Fractals\obj\Debug\Fractals.Form.resources
+C:\Projects\Fractals\obj\Debug\Fractals.Properties.Resources.resources
+C:\Projects\Fractals\obj\Debug\Fractals.csproj.GenerateResource.cache
+C:\Projects\Fractals\obj\Debug\Fractals.csproj.CoreCompileInputs.cache
+C:\Projects\Fractals\obj\Debug\Fractals.exe
+C:\Projects\Fractals\obj\Debug\Fractals.pdb
+C:\Projects\Fractals v2\bin\Debug\Fractals.exe.config
+C:\Projects\Fractals v2\bin\Debug\Fractals.exe
+C:\Projects\Fractals v2\bin\Debug\Fractals.pdb
+C:\Projects\Fractals v2\obj\Debug\Fractals.csproj.AssemblyReference.cache
+C:\Projects\Fractals v2\obj\Debug\Fractals.csproj.SuggestedBindingRedirects.cache
+C:\Projects\Fractals v2\obj\Debug\Fractals.Form.resources
+C:\Projects\Fractals v2\obj\Debug\Fractals.Properties.Resources.resources
+C:\Projects\Fractals v2\obj\Debug\Fractals.csproj.GenerateResource.cache
+C:\Projects\Fractals v2\obj\Debug\Fractals.csproj.CoreCompileInputs.cache
+C:\Projects\Fractals v2\obj\Debug\Fractals.exe
+C:\Projects\Fractals v2\obj\Debug\Fractals.pdb
+C:\Users\chab\Рабочий стол\Fractals v2\bin\Debug\Fractals.exe.config
+C:\Users\chab\Рабочий стол\Fractals v2\bin\Debug\Fractals.exe
+C:\Users\chab\Рабочий стол\Fractals v2\bin\Debug\Fractals.pdb
+C:\Users\chab\Рабочий стол\Fractals v2\obj\Debug\Fractals.csproj.AssemblyReference.cache
+C:\Users\chab\Рабочий стол\Fractals v2\obj\Debug\Fractals.csproj.SuggestedBindingRedirects.cache
+C:\Users\chab\Рабочий стол\Fractals v2\obj\Debug\Fractals.Form.resources
+C:\Users\chab\Рабочий стол\Fractals v2\obj\Debug\Fractals.Properties.Resources.resources
+C:\Users\chab\Рабочий стол\Fractals v2\obj\Debug\Fractals.csproj.GenerateResource.cache
+C:\Users\chab\Рабочий стол\Fractals v2\obj\Debug\Fractals.csproj.CoreCompileInputs.cache
+C:\Users\chab\Рабочий стол\Fractals v2\obj\Debug\Fractals.exe
+C:\Users\chab\Рабочий стол\Fractals v2\obj\Debug\Fractals.pdb
